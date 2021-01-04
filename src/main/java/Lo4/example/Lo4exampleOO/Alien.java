@@ -1,5 +1,6 @@
 package Lo4.example.Lo4exampleOO;
 
+import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Component;
 
 @Component
